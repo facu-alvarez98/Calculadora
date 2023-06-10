@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1684516096 source:c:\users\mi pc\onedrive\documentos\upe\testing\pruebas_eda2\main.cpp
+	<iostream>
+	"class.h"
+	"funciones.h"
+
+1684506430 c:\users\mi pc\onedrive\documentos\upe\testing\pruebas_eda2\class.h
+	<iostream>
+
+1684506101 c:\users\mi pc\onedrive\documentos\upe\testing\pruebas_eda2\methods.cpp
+	<iostream>
+	"class.h"
+
+1684506101 source:c:\users\mi pc\onedrive\documentos\upe\testing\pruebas_eda2\methods.cpp
+	<iostream>
+	"class.h"
+
+1684515405 c:\users\mi pc\onedrive\documentos\upe\testing\pruebas_eda2\funciones.h
+	<iostream>
+
+1684516049 source:c:\users\mi pc\onedrive\documentos\upe\testing\pruebas_eda2\funciones.cpp
+	<iostream>
+	"funciones.h"
+	"class.h"
+
+1685825232 source:c:\users\mi pc\onedrive\documentos\upe\eda ii\pruebas_eda2\funciones.cpp
+	<iostream>
+	"funciones.h"
+	"class.h"
+
+1685717672 c:\users\mi pc\onedrive\documentos\upe\eda ii\pruebas_eda2\funciones.h
+	<iostream>
+
+1685718035 c:\users\mi pc\onedrive\documentos\upe\eda ii\pruebas_eda2\class.h
+	<iostream>
+
+1685390151 source:c:\users\mi pc\onedrive\documentos\upe\eda ii\pruebas_eda2\main.cpp
+	<iostream>
+	"class.h"
+	"funciones.h"
+
+1685822516 source:c:\users\mi pc\onedrive\documentos\upe\eda ii\pruebas_eda2\methods.cpp
+	<iostream>
+	"class.h"
+	<math.h>
+
