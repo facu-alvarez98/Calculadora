@@ -17,6 +17,7 @@ Una vez ejecutado el programa encontrará 3 opciones que podrá hacer con el pro
 0- Terminar el programa.
 Caso 1 Método de interpolación: 
 Para poder interpolar debe ingresar una serie de datos 
+
 •	Primero debe ingresar la cantidad de coordenadas,
  
 •	Luego debe ingresar el dato que buscamos interpolar.
