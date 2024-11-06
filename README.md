@@ -4,13 +4,16 @@ El programa, escrito en lenguaje C++, nos proporciona dos funcionalidades princi
 2.	Busqueda de raíces de funciones no lineales por medio del método de bisección. Estas funciones están precargadas en el programa, el usuario debe ingresar el margen de error que quiere para la raíz buscada.
 
 Ingreso al programa:
+
 Ingrese a su compilador y ejecute el programa
+
 Menú:
 Una vez ejecutado el programa encontrará 3 opciones que podrá hacer con el programa al usted escribir los números que allí aparecen:
 
- 
 1- Interpolación mediante método de Lagrange.
+
 2 -Encontrar la raíz con el método de bipartición de una función no lineal.
+
 0- Terminar el programa.
 Caso 1 Método de interpolación: 
 Para poder interpolar debe ingresar una serie de datos 
